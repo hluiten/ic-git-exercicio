@@ -1,0 +1,3 @@
+# exercio git
+
+criar repo
