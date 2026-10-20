@@ -1,0 +1,3 @@
+aprendi a fazer commits pela cmd
+aprendi a fazer diff pela cmd
+aprendi a usar a cmd e alguns comandos para git
